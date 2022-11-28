@@ -11,7 +11,7 @@ Templates for data visualization with ggplot2
 <a name="Theme"/>
 
 ## Themes
--[Minimalist, cartesian w/o gridlien, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)
+-[Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)
 
 <a name="Bar"/>
 
