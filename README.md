@@ -2,7 +2,7 @@
 Templates for data visualization with ggplot2
 
 ## Index
-[Themes](#Theme)
+[Themes](#Theme)  
 [Bar Charts](#Bar)  
   &ensp; [Stacked Bar Charts](#StackedBar)  
 [Line Charts](#Line)  
