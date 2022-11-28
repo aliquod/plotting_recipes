@@ -3,8 +3,8 @@ Templates for data visualization with ggplot2
 
 ## Index
 [Bar Charts](#Bar)  
-  &ensp; [Stacked Bar Charts](#StackedBar)
-[Line Charts](#Line)
+  &ensp; [Stacked Bar Charts](#StackedBar)  
+[Line Charts](#Line)  
   &ensp; [Stacked Line Charts](#StackedLine)
 
 <a name="Bar"/>
