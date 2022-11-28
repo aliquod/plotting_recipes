@@ -2,10 +2,16 @@
 Templates for data visualization with ggplot2
 
 ## Index
+[Themes](#Theme)
 [Bar Charts](#Bar)  
   &ensp; [Stacked Bar Charts](#StackedBar)  
 [Line Charts](#Line)  
   &ensp; [Stacked Line Charts](#StackedLine)
+  
+<a name="Theme"/>
+
+## Themes
+-[Minimalist, cartesian w/o gridlien, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)
 
 <a name="Bar"/>
 
