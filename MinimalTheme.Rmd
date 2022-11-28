@@ -1,0 +1,21 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+my_theme = theme_minimal() +
+  theme(panel.grid.minor = element_blank(),
+        panel.grid.major = element_blank(),
+        plot.title = element_text(size = 20, face = "bold"),
+        plot.subtitle = element_text(size = 16))
+```
+
+```{r}
+ggplot(data=cars) +
+  geom_point(aes(x=speed, y=dist)) +
+  labs(title="This is a plot of the cars dataset",
+       subtitle="along with a subtitle for some context")+
+  my_theme
+```
+
