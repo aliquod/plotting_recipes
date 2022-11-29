@@ -5,6 +5,7 @@ Templates for data visualization with ggplot2
 [Themes](#Theme)  
 [Bar Charts](#Bar)  
   &ensp; [Stacked Bar Charts](#StackedBar)  
+  &ensp; [Polar Bar Charts (Pie/Donut Charts)](#PolarBar)  
 [Line Charts](#Line)  
   &ensp; [Stacked Line Charts](#StackedLine)
   
@@ -18,14 +19,20 @@ Templates for data visualization with ggplot2
 
 ## Bar Chart Recipes
 
-<a name="StackedBar"/>
-
 -[Color gradient, horizontal](https://rpubs.com/aliquis/horizontalbar_color)  
 <img width="400" alt="Screen Shot 2022-11-29 at 19 10 14" src="https://user-images.githubusercontent.com/100171584/204623532-7dc3f3fe-112f-4e62-afd9-ccfe7f3d56c0.png">
+
+<a name="StackedBar"/>
 
 ### Stacked Bar Charts
 -[Color coded, horizontal, single-bar](https://rpubs.com/aliquis/stackedbar_color)  
 <img width="400" alt="Screen Shot 2022-11-29 at 18 47 29" src="https://user-images.githubusercontent.com/100171584/204619056-d21b6d59-d734-4270-a668-e596b7b54a3a.png">
+
+<a name="PolarBar"/>
+
+### Polar Bar Charts (Donuts, Pie Charts)
+-[Monochrome gradient donut/pie](https://rpubs.com/aliquis/polar_monochrome)  
+<img width="400" alt="Screen Shot 2022-11-29 at 19 58 49" src="https://user-images.githubusercontent.com/100171584/204635402-a73af27e-2e24-45fe-95ef-4ac6bd141ef1.png">
 
 
 <a name="Line"/>
