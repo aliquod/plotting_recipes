@@ -19,7 +19,7 @@ Templates for data visualization with ggplot2
 
 ## Bar Chart Recipes
 
--[Color gradient, horizontal](https://rpubs.com/aliquis/horizontalbar_color)  
+-[Monochrome gradient, horizontal](https://rpubs.com/aliquis/horizontalbar_color)  
 <img width="400" alt="Screen Shot 2022-11-29 at 19 10 14" src="https://user-images.githubusercontent.com/100171584/204623532-7dc3f3fe-112f-4e62-afd9-ccfe7f3d56c0.png">
 
 <a name="StackedBar"/>
