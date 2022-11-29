@@ -20,6 +20,7 @@ Templates for data visualization with ggplot2
 <a name="StackedBar"/>
 
 ### Stacked Bar Charts
+-[Color coded, horizontal, single-bar](https://rpubs.com/aliquis/stackedbar_color)
 
 
 <a name="Line"/>
