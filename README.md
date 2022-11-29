@@ -11,7 +11,8 @@ Templates for data visualization with ggplot2
 <a name="Theme"/>
 
 ## Themes
--[Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)
+-[Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)  
+<img width="400" alt="Screen Shot 2022-11-29 at 18 45 55" src="https://user-images.githubusercontent.com/100171584/204618969-389c1d77-cf86-4850-b7cb-a0d7d06b8d88.png">
 
 <a name="Bar"/>
 
@@ -20,7 +21,8 @@ Templates for data visualization with ggplot2
 <a name="StackedBar"/>
 
 ### Stacked Bar Charts
--[Color coded, horizontal, single-bar](https://rpubs.com/aliquis/stackedbar_color)
+-[Color coded, horizontal, single-bar](https://rpubs.com/aliquis/stackedbar_color)  
+<img width="400" alt="Screen Shot 2022-11-29 at 18 47 29" src="https://user-images.githubusercontent.com/100171584/204619056-d21b6d59-d734-4270-a668-e596b7b54a3a.png">
 
 
 <a name="Line"/>
@@ -30,5 +32,6 @@ Templates for data visualization with ggplot2
 <a name="StackedLine"/>
 
 ### Stacked Line Graphs
--[Color coded, multiple scales](https://rpubs.com/aliquis/stackedline_color_multiscale)
+-[Color coded, multiple scales](https://rpubs.com/aliquis/stackedline_color_multiscale)  
+<img width="400" alt="Screen Shot 2022-11-29 at 18 48 21" src="https://user-images.githubusercontent.com/100171584/204619208-c7db99f0-3c04-4bb5-bb22-f8710a955b3b.png">
 
