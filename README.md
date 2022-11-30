@@ -25,7 +25,7 @@ Templates for data visualization with ggplot2
 <a name="Theme"/>
 
 ## Themes
-[Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/minimalthemeplus)  
+[Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/theme_moreminimal)  
 ><img width="400" alt="Screen Shot 2022-11-29 at 18 45 55" src="https://user-images.githubusercontent.com/100171584/204618969-389c1d77-cf86-4850-b7cb-a0d7d06b8d88.png">
 
 <a name="Bar"/>
