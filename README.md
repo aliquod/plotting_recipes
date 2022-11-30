@@ -3,7 +3,7 @@ Templates for data visualization with ggplot2
 
 ## Index
 [Visualizations for Machine Learning](#ML)  
-[Themes](#Theme)
+[Themes](#Theme)  
 [Bar Charts](#Bar)  
   &ensp; [Stacked Bar Charts](#StackedBar)  
   &ensp; [Polar Bar Charts (Pie/Donut Charts)](#PolarBar)  
