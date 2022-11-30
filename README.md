@@ -56,5 +56,6 @@ Templates for data visualization with ggplot2
 
 ### Stacked Line Graphs
 [Color coded, multiple scales](https://rpubs.com/aliquis/stackedline_color_multiscale)  
-><img width="400" alt="Screen Shot 2022-11-29 at 18 48 21" src="https://user-images.githubusercontent.com/100171584/204619208-c7db99f0-3c04-4bb5-bb22-f8710a955b3b.png">
+><img width="400" alt="Screen Shot 2022-11-30 at 15 13 28" src="https://user-images.githubusercontent.com/100171584/204835731-fa5fcf65-a032-443d-8232-82e824aceaf4.png">
+
 
