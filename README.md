@@ -58,7 +58,7 @@ Templates for data visualization with ggplot2
 ### Stacked Line Graphs
 [Color coded, multiple scales](https://rpubs.com/aliquis/stackedline_color_multiscale)  
 ><img width="400" alt="Screen Shot 2022-11-30 at 22 32 19" src="https://user-images.githubusercontent.com/100171584/204922511-e1a554a5-beec-485a-b51e-1597ab455889.png">
-[Vertically separated]  
+[Vertically separated](https://rpubs.com/aliquis/stackedline_vsep)
 ><img width="400" alt="Screen Shot 2022-11-30 at 22 38 22" src="https://user-images.githubusercontent.com/100171584/204923390-abba2d7d-ed0c-447f-8458-06cbba824540.png">  
 [Horizontally separated with highlight](https://rpubs.com/aliquis/stackedline_colornspacial)  
 ><img width="400" alt="Screen Shot 2022-12-01 at 01 11 58" src="https://user-images.githubusercontent.com/100171584/204941883-dc9cc0f0-07a0-49de-a187-d9ec22362cd6.png">
