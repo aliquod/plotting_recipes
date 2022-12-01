@@ -26,7 +26,8 @@ Templates for data visualization with ggplot2
 
 ## Themes
 [Minimalist, cartesian w/o gridline, title+subtitle](https://rpubs.com/aliquis/theme_moreminimal)  
-><img width="400" alt="Screen Shot 2022-11-29 at 18 45 55" src="https://user-images.githubusercontent.com/100171584/204618969-389c1d77-cf86-4850-b7cb-a0d7d06b8d88.png">
+><img width="400" alt="Screen Shot 2022-12-01 at 01 19 06" src="https://user-images.githubusercontent.com/100171584/204942735-3a9c9269-cdd9-499a-b2c8-65d0db7a67c6.png">
+
 
 <a name="Bar"/>
 
