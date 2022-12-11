@@ -8,7 +8,7 @@ Templates for data visualization with ggplot2
   &ensp; [Stacked Bar Charts](#StackedBar)  
   &ensp; [Polar Bar Charts (Pie/Donut Charts)](#PolarBar)  
 [Line Charts](#Line)  
-  &ensp; [Stacked Line Charts](#StackedLine)
+  &ensp; [Stacked Line Charts](#StackedLine)  
 [Others](#Others) 
   
 <a name="ML"/>
@@ -63,6 +63,8 @@ Templates for data visualization with ggplot2
 ><img width="400" alt="Screen Shot 2022-11-30 at 22 38 22" src="https://user-images.githubusercontent.com/100171584/204923390-abba2d7d-ed0c-447f-8458-06cbba824540.png">  
 [Horizontally separated with highlight](https://rpubs.com/aliquis/stackedline_colornspacial)  
 ><img width="400" alt="Screen Shot 2022-12-01 at 01 11 58" src="https://user-images.githubusercontent.com/100171584/204941883-dc9cc0f0-07a0-49de-a187-d9ec22362cd6.png">
+
+<a name="Others"/>
 
 ## Others
 [Tree Map](https://rpubs.com/aliquis/tree_color)
