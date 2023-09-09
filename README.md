@@ -1,5 +1,5 @@
-# GGPlot2 Templates
-Templates for data visualization with ggplot2
+# Plotting Recipes
+Templates for data visualization with ggplot2 and Python
 
 ## Index
 [Visualizations for Machine Learning](#ML)  
@@ -19,6 +19,9 @@ Templates for data visualization with ggplot2
   
 [ROC Plot (for probabilistic classifiers)](https://rpubs.com/aliquis/ml_roc)  
 ><img width="400" alt="Screen Shot 2022-11-30 at 14 12 51" src="https://user-images.githubusercontent.com/100171584/204818315-d57a5ce9-bfdc-4eba-ba98-08b7d72583b8.png">
+
+[Decision Trees (python)](DecisionTreeRecipe.ipynb)
+>![image](https://github.com/aliquod/plotting_recipes/assets/100171584/e783cfcc-9cc8-4563-83a2-7bcc51ff0fbd)
 
 
 
