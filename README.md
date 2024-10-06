@@ -70,9 +70,11 @@ Templates for data visualization with ggplot2 and Python
 <a name="Others"/>
 
 ## Others
-[Tree Map](https://rpubs.com/aliquis/tree_color)
+[Tree Map in R](https://rpubs.com/aliquis/tree_color)
 ><img width="400" alt="Screen Shot 2022-12-11 at 23 28 38" src="https://user-images.githubusercontent.com/100171584/206935360-f1e279e3-626c-4a3e-b08b-e2b42c2fc0f0.png">
 
+[Tree Map in Python](https://github.com/aliquod/plotting_recipes/blob/main/TreeMapRecipe.ipynb)
+><img width="400" src="https://github.com/user-attachments/assets/906b9c21-6b2e-433a-a9fb-5b4c83c08f72">
 
 
 
